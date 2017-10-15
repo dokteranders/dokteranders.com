@@ -1,8 +1,29 @@
-# TODO
+# Fallingwater (Jekyll theme)
 
-Usage
+A Jekyll theme for any creative portfolio-driven person/business.
 
-1. `npm install`
-1. `bundle install`
-1. `brew install imagemagick@6 && brew link imagemagick@6 --force`
-1. `gulp`
+## Preview
+
+TODO
+
+## Features
+
+* image preloading, etc etc (TODO)
+
+## Usage
+
+1. `$ npm install`
+1. `$ bundle install`
+1. `$ brew install imagemagick@6 && brew link imagemagick@6 --force`
+1. `$ gulp`
+
+Develop: `$ npm start`
+
+Build: `$ npm build`
+
+Deploy: `$ npm run deploy`
+
+## Dependencies
+
+* Foundation Sites 5
+* Imagemagick v6
