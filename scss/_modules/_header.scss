@@ -14,7 +14,7 @@
 		display: none;
 	}
 
-	.logo {
+	.title img {
 		display: inline-block;
 	}
 
@@ -112,12 +112,26 @@
 	}
 
 	.menu > li > a {
-	    padding: 0.7rem 1.8rem;
+			padding: 0;
+			margin: 0.7rem 1.8rem;
+			color: $dark-gray;
+
+			&:hover { color: $primary-color; }
 	}
 
-	.logo {
+	.title {
+		text-transform: uppercase;
+		font-size: rem-calc(20);
+		margin-top: 22px;
+
+		small {
+			font-weight: $global-weight-light;
+			text-transform: none;
+		}
+	}
+
+	.title img {
 		display: inline-block;
 		width: 155px;
-		padding-top: 22px;
 	}
 }
