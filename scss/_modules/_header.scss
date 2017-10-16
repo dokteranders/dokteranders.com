@@ -121,12 +121,16 @@
 
 	.title {
 		text-transform: uppercase;
-		font-size: rem-calc(20);
+		font-weight: 700;
+    letter-spacing: rem-calc(3.3);
+		font-size: rem-calc(24);
+		font-weight: $global-weight-bold;
 		margin-top: 22px;
 
 		small {
-			font-weight: $global-weight-light;
+			font-weight: $global-weight-normal;
 			text-transform: none;
+			letter-spacing: initial;
 		}
 	}
 
