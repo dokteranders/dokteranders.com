@@ -1,6 +1,6 @@
 # Fallingwater (Jekyll theme)
 
-A Jekyll theme for any creative portfolio-driven person/business.
+A Jekyll theme for any creative portfolio-driven person/business. 'Fallingwater' is inspired by Frank Lloyd-Wright's famous [residential project](http://www.archdaily.com/60022/ad-classics-fallingwater-frank-lloyd-wright) of the same name.
 
 ## Preview
 
