@@ -24,10 +24,7 @@
     "build": "gulp build",
     "deploy": "gulp build"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nathanbirrell/fallingwater-jekyll-theme.git"
-  },
+  "repository": "https://github.com/nathanbirrell/fallingwater-jekyll-theme.git",
   "bugs": {
     "url": "https://github.com/nathanbirrell/fallingwater-jekyll-theme/issues",
     "email": "foundation@zurb.com"
@@ -36,7 +33,13 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "foundation-sites": "6.2.0",
     "gulp-autoprefixer": "^3.1.0",
-    "slick-carousel": "^1.6.0"
+    "jquery": "^3.2.1",
+    "motion-ui": "^1.2.3",
+    "node-sass": "^4.5.3",
+    "photoswipe": "^4.1.2",
+    "slick-carousel": "^1.6.0",
+    "vivus": "^0.4.2"
   }
 }

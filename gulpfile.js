@@ -14,11 +14,11 @@ var ghPages = require('gulp-gh-pages');
 
 // FILE PATH CONFIG
 var jsFiles = [
-  'bower_components/what-input/what-input.js',
-  'bower_components/foundation-sites/dist/foundation.js',
-  'bower_components/vivus/dist/vivus.js',
-  'bower_components/photoswipe/dist/photoswipe.js',
-  'bower_components/photoswipe/dist/photoswipe-ui-default.js',
+  'node_modules/what-input/what-input.js',
+  'node_modules/foundation-sites/dist/foundation.js',
+  'node_modules/vivus/dist/vivus.js',
+  'node_modules/photoswipe/dist/photoswipe.js',
+  'node_modules/photoswipe/dist/photoswipe-ui-default.js',
   'node_modules/slick-carousel/slick/slick.js',
   'js/modules/*.js',
   'js/*.js'
@@ -26,9 +26,9 @@ var jsFiles = [
 var jsDest = 'js/dist';
 
 var sassPaths = [
-  'bower_components/foundation-sites/scss',
-  'bower_components/motion-ui/src',
-  'bower_components/photoswipe/dist'
+  'node_modules/foundation-sites/scss',
+  'node_modules/motion-ui/src',
+  'node_modules/photoswipe/dist'
 ];
 
 gulp.task('html', ['jekyll'], function() {
