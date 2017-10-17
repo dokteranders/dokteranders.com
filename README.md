@@ -4,7 +4,7 @@ A Jekyll theme for any creative portfolio-driven person/business. 'Fallingwater'
 
 ## Preview
 
-TODO
+![Preview](https://i.imgur.com/kZuATQz.png)
 
 ## Features
 
@@ -27,3 +27,7 @@ Deploy: `$ npm run deploy`
 
 * Foundation Sites 5
 * Imagemagick v6
+
+## Examples
+
+* damgargroup.com.au
