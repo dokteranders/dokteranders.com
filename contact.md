@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Damgar
-description: Contact Damgar Property Group, leaders of small to medium residential and commercial property development in Melbourne.
+title: Contact
+description: Please feel free to contact me for any questions. 
 ---
 
 ![Image of Otto Apartments in Brunswick](/project-photos/otto/thumbs/damgar-otto-apartments-brunswick-00.jpg)

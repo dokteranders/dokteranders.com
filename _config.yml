@@ -2,13 +2,13 @@ gems:
 - jekyll-gallery-generator
 - jekyll-redirect-from
 
-url: http://fallingwater-jekyll-theme.github.io
+url: http://dokteranders.github.com/
 # baseurl: "/"
 # url: http://localhost:3000
 
-name: Fallingwater Jekyll Theme
-brand: Fallingwater Jekyll Theme
-description: A Jekyll theme for any creative portfolio-driven person/business.
+name: Dokter Anders
+brand: Dokter Anders 
+description: Voor op maat behandelingen
 keyword: jekyll, theme, portfolio, creative
 
 email: todo@you.com
@@ -16,7 +16,7 @@ phone: +61 0000 0000
 # Keep address to one line if you want to use maps (for URL ecaping)
 address: 1 Infinite Loop, Cupertino, CA
 
-author: Nathan Birrell
+author: Erik
 
 analytics: UA-81747047-1
 year: 2016
