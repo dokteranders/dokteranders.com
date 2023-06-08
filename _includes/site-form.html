@@ -20,18 +20,18 @@
 >
   <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
-    <label class="label" for="name--{{ name_id }}">Name: <span class="required">*</span></label>
-    <input class="input" id="name--{{ name_id }}" type="text" name="name" value="" placeholder="Your Name" required="required" />
+    <label class="label" for="name--{{ name_id }}">Naam: <span class="required">*</span></label>
+    <input class="input" id="name--{{ name_id }}" type="text" name="name" value="" placeholder="Uw naam" required="required" />
 
-    <label class="label" for="email--{{ name_id }}">Email Address: <span class="required">*</span></label>
+    <label class="label" for="email--{{ name_id }}">Email Adres: <span class="required">*</span></label>
     <input class="input" id="email--{{ name_id }}" type="email" name="email" value="" placeholder="email@website.com" required="required" />
 
-    <label class="label" for="message--{{ name_id }}">Message: <span class="required">*</span></label>
-    <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Your message..." required="required"></textarea>
+    <label class="label" for="message--{{ name_id }}">Bericht: <span class="required">*</span></label>
+    <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Uw vraag of opmerking..." required="required"></textarea>
 
-    <input class="button" type="submit" value="Send message" />
+    <input class="button" type="submit" value="Verzenden" />
     <br/>
-    <small class="small"><span class="required">*</span> indicates a required field</small>
+    <small class="small"><span class="required">*</span> betekent dat het om een verplicht veld gaat</small>
 
     {% if include.netlify_form %}
       <label  style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
