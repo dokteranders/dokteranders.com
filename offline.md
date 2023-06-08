@@ -1,9 +1,9 @@
 ---
-title: Looks like you're offline
+title: Hm, ben je misschien offline?
 indexing: false
 sitemap: false
 ---
 
-It appears that you've lost your network connection and this document doesn't exist on your device.
+Het lijkt erop dat je (tijdelijk) de internet verbinding hebt verloren.
 
-Try either returning to the previous page, using the navigation to find your way back, or restore your network connection.
+Probeer naar de vorige pagina te gaan of opnieuw te navigeren naar de gewenste bestemming. Controleer anders je netwerkinstellingen. 
