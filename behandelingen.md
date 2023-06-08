@@ -6,13 +6,13 @@ feature_image: "https://picsum.photos/2560/600?image=894"
 aside: true
 ---
 
-# Therapie
+## Therapie
 
 * Spooky                20,- euro
 * Multiwave Oscilator   20,- euro
 * Etc etc               20,- euro 
 
-# Supplementen
+## Supplementen
 
 * Spooky                20,- euro
 * Multiwave Oscilator   20,- euro
@@ -20,5 +20,3 @@ aside: true
 
 Interesse of vragen? Neem dan contact op: 
 {% include button.html text="Contact" link="/contact/" %}
-
-{% include video.html id="Ib6BdayRpEg" title="Info about spooky" %}
