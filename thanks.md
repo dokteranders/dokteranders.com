@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Bedankt! Ik neem zo spoedig mogelijk contact met je op.
