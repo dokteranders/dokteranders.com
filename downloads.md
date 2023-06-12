@@ -5,7 +5,7 @@ aside: true
 ---
 
 ### iTeraCare
-- [Handleidng Nederlands](uploads/nederlands.pdf)
+- [Handleidng Nederlands](.../uploads/nederlands.pdf)
 - [Handleidng Nederlands](uploads/nederlands.pdf)
 
 ### Multi Wave
