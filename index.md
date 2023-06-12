@@ -3,7 +3,7 @@ title: Dokter Anders
 feature_image: "https://picsum.photos/1300/400?image=815"
 ---
 
-_## Welkom bij Dokter Anders, therapie en advies echt op maat._
+## Welkom bij Dokter Anders, therapie en advies echt op maat._
 
 Welkom bij Dokter Anders, de plek waar je de verborgen wereld van energie en multi-wave oscillators kunt verkennen. Onze therapeutische praktijk is gewijd aan het helpen van mensen bij het herstellen van hun balans, het ontdekken van innerlijke kracht en het realiseren van positieve veranderingen in hun leven. Bij Dokter Anders geloven we dat energie de sleutel is tot welzijn en dat de juiste oscillaties je kunnen helpen om je beste zelf te worden.
 
