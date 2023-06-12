@@ -22,10 +22,10 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------:|-------:|
-| Leela Quantum Energy Capsule | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders)  
-| Shilajit (+85 mineralen) | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/) 
+| Leela Quantum Energy Capsule | [Bestellen](https://www.thzforyou.nl/producten-thz/) | € 40,-
+| Shilajit (+85 mineralen) | [Bestellen](https://dokteranders.neumi.com/) | € 75,- (50 gr)
 | Carbon 60 (sterkste antioxidant) | [Bestellen](#/contact/) | € 40,- (100 ml)
-| MMS | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders)
+| MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
 | Colloidaal Zilver | [Bestellen](#/contact/)  | € 10,- (100 ml)
 
 --
@@ -37,7 +37,6 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 | Vydafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
 
 ---
---
 
 Interesse of vragen? Neem dan direct contact op: 
 {% include button.html text="Contact" link="/contact/" %}
