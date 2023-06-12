@@ -14,7 +14,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Maatwerk is oo
 | iTeraCare (Thz frequentie)                	| (Lees meer)[http://#/] 	  | € 25,- 1 uur    	|
 | Multi-Wave Oscillator Behandelingen (Thz) 	| (Lees meer)[http://#/]   	| € 15,- 10 min   	|
 | Browns' Gas                               	| (Lees meer)[http://#/] 	  | € 25,- 1 uur    	|
-| Infinity Bloc (Quantum energie)           	| (Lees meer)[http://#/] 	  | Altijd begrepen 	|
+| Infinity Bloc (Quantum energie)           	| (Lees meer)[http://#/] 	  | Altijd inbegrepen 	|
 
 ## Supplementen
 
