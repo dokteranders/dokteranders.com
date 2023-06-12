@@ -1,6 +1,6 @@
 ---
 title: Downloads
-feature_image: "https://picsum.photos/2560/600?image=475"
+feature_image: "https://picsum.photos/2560/600?image=41"
 aside: true
 ---
 
