@@ -24,11 +24,11 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Maatwerk is oo
 
 | **Artikel**                     	|                                                                 	| _Prijs_         	|
 |---------------------------------	|-----------------------------------------------------------------	|-----------------	|
-| Leela Quantum Energy Capsule    	| Bestel bij mij[/contact/]                                       	| € 40,-          	|
-| **Onafhankelijke distribiteur** 	|                                                                 	|                 	|
-| IteraCare                       	| [Bestel nu](http://#/](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
-| Neumi - Nano supplement         	| [Bestel nu](https://dokteranders.neumi.com/)                    	| Zie website     	|
-| Vydafi - Nano supplement        	| [Bestel nu](https://vidafyglobal.com/dranders)                  	| Altijd begrepen 	|
+| Leela Quantum Energy Capsule    	| (Bestel bij mij)[/contact/]                                      	| € 40,-          	|
+| **Onafhankelijke distribiteur** 	                                                                 	                     	|
+| IteraCare                       	| (Bestel nu)[http://#/](https://www.thzforyou.nl/producten-thz/] 	| Vanaf € 500,-   	|
+| Neumi - Nano supplement         	| (Bestel nu)[https://dokteranders.neumi.com/]                    	| Zie website     	|
+| Vydafi - Nano supplement        	| (Bestel nu)[https://vidafyglobal.com/dranders]                  	| Altijd begrepen 	|
 
 
 ---
