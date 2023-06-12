@@ -12,7 +12,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 |-------------------------------------------	|------------------------	  |-----------------	|
 | Radiofrequentie & Scalar Therapie         	| [Lees meer](http://#/)  	| € 25,- 1 uur    	|
 | iTeraCare (Thz frequentie)                	| [Lees meer](http://#/) 	  | € 25,- 1 uur    	|
-| Multi-Wave Oscillator Behandelingen (Thz) 	| [Lees meer](http://#/)   	| € 15,- 10 min   	|
+| Multi-Wave Oscillator Behandelingen (Thz) 	| [Lees meer](http://#/](https://dokteranders.com/blog/multiwave/2023/06/12/Over-de-MWO/))   	| € 15,- 10 min   	|
 | Browns' Gas                               	| [Lees meer](http://#/) 	  | € 25,- 1 uur    	|
 | Infinity Bloc (Quantum energie)           	| [Lees meer](http://#/) 	  | Altijd inbegrepen 	|
 
