@@ -5,7 +5,7 @@ aside: true
 ---
 
 ### iTeraCare
-- [Link to a file]({{ site.baseurl }}{% link /uploads/handleiding_nl.pdf %})
+- <a href="./uploads/handleiding_nl.pfg">Handlieding Nederlands</a>
 - [Handleidng Nederlands](uploads/nederlands.pdf)
 
 ### Multi Wave
