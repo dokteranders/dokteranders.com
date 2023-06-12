@@ -22,7 +22,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Maatwerk is oo
 
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. > Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan_DrAnders_ alsjeblieft.
 
-| **Artikel**                     	|-----------------	| **Prijs**        	|
+| **Artikel**                     	|                 	| **Prijs**        	|
 |---------------------------------  |-----------------	|-----------------	|
 | Leela Quantum Energy Capsule    	| [Bestellen](#/contact/)                               | € 40,-          	|
 |                                 	|                                                      	|                 	|
