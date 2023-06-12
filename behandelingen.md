@@ -43,7 +43,6 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 | iteraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders) {% newline %}
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/) {% newline %}
 | Vydafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
-
 {% endstripnewlines %}
 
 --
