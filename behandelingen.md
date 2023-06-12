@@ -8,10 +8,10 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 | **Behandeling** | **Info** | **Prijs** |
 |--------|:-------:|-------:|
-| Radiofrequentie & Scalar Therapie | [Lees meer](http://#/) | [Zie website](https://vidafyglobal.com/dranders) | € 25,- 1 uur   
-| iTeraCare (Thz frequentie) | [Lees meer](http://#/)  | [Zie website](https://dokteranders.neumie.com/) | € 25,- 1 uur
+| Radiofrequentie & Scalar Therapie | [Lees meer](http://#/) | [Zie website](https://vidafyglobal.com/dranders) 
+| iTeraCare (Thz frequentie) | [Lees meer](http://#/)  | [Zie website](https://dokteranders.neumie.com/) 
 | Multi-Wave Oscillator Behandelingen (Thz) | [Bestellen](#/contact/) | € 15,- 10 min
-| Brown's Gas | [Bestellen](https://vidafyglobal.com/dranders) |€ 25,- 1 uur 
+| Brown's Gas | [Bestellen](https://vidafyglobal.com/dranders) | € 25,- 1 uur 
 | Infinity Bloc (Quantum energie) | [Bestellen](#/contact/)  | Altijd inbegrepen
 
 ---
@@ -22,8 +22,8 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------:|-------:|
-| Leela Quantum Energy Capsule | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders) | € 40,-   
-| Shilajit (+85 mineralen) | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/) | € 75,- (50 gram)
+| Leela Quantum Energy Capsule | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders)  
+| Shilajit (+85 mineralen) | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/) 
 | Carbon 60 (sterkste antioxidant) | [Bestellen](#/contact/) | € 40,- (100 ml)
 | MMS | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) | € 20,- (100 ml)
 | Colloidaal Zilver | [Bestellen](#/contact/)  | € 10,- (100 ml)
