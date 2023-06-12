@@ -8,7 +8,7 @@ Hieronder achter ### de naam van het product. Verander tussen [] de naam van het
 Tussen de () zet je .uploads/bestandnaam.
 
 ### iTeraCare
-- [Bestellen](https://dokteranders.neumi.com/)
+- [Nederlandse Handleiding](./uploads/handlieding_nl.pdf)
 - [Bestellen](https://dokteranders.neumi.com/)
 - [Bestellen](https://dokteranders.neumi.com/)
 - [Bestellen](https://dokteranders.neumi.com/)
