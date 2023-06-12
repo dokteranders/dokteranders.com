@@ -119,8 +119,8 @@ navigation_header:
   url: /
 - title: Behandelingen
   url: /behandelingen/
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 - title: Downloads
   url: /downloads/
 - title: Contact
