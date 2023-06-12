@@ -16,11 +16,21 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Maatwerk is oo
 | Browns' Gas                               	| [Lees meer](http://#/) 	  | € 25,- 1 uur    	|
 | Infinity Bloc (Quantum energie)           	| [Lees meer](http://#/) 	  | Altijd inbegrepen 	|
 
-## Supplementen
+---
 
-* Spooky                  20,- euro
-* Multiwave Oscilator     20,- euro
-* Etc etc                 20,- euro 
+## Producten
 
+> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. > Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan_DrAnders_ alsjeblieft.
+
+| **Artikel**                     	|                                                                 	| _Prijs_         	|
+|---------------------------------	|-----------------------------------------------------------------	|-----------------	|
+| Leela Quantum Energy Capsule    	| Bestel bij mij[/contact/]                                       	| € 40,-          	|
+| **Onafhankelijke distribiteur** 	|                                                                 	|                 	|
+| IteraCare                       	| [Bestel nu](http://#/](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
+| Neumi - Nano supplement         	| [Bestel nu](https://dokteranders.neumi.com/)                    	| Zie website     	|
+| Vydafi - Nano supplement        	| [Bestel nu](https://vidafyglobal.com/dranders)                  	| Altijd begrepen 	|
+
+
+---
 Interesse of vragen? Neem dan direct contact op: 
 {% include button.html text="Contact" link="/contact/" %}
