@@ -18,7 +18,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 ## Producten
 
-> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. > Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
+> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------|:-------|
@@ -36,5 +36,4 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/)
 | Vydafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
 
-Interesse of vragen? Neem dan direct contact op: 
-{% include button.html text="Contact" link="/contact/" %}
+
