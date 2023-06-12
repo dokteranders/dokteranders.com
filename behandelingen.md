@@ -1,6 +1,6 @@
 ---
 title: Behandelingen & Producten
-feature_image: "https://picsum.photos/2560/600?image=894"
+feature_image: "https://picsum.photos/2560/600?image=104"
 aside: false
 ---
 
@@ -18,8 +18,6 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 ## Producten
 
-> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
-
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------|:-------|
 | Leela Quantum Energy Capsule | [Bestellen](https://www.thzforyou.nl/producten-thz/) | € 40,-
@@ -28,7 +26,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 | MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
 | Colloidaal Zilver | [Bestellen](#/contact/)  | € 10,- (100 ml)
 
----
+> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Distributeur** | **Info** | **Prijs** |
 |--------|:-------|:-------|
