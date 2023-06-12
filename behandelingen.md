@@ -18,7 +18,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 ## Producten
 
-> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. > Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan_DrAnders_ alsjeblieft.
+> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. > Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------:|-------:|
