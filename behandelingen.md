@@ -24,14 +24,14 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 
 | **Eigen Artikelen**                         |                         	|  **Prijs**        |
 |-------------------------------------------	|------------------------	  |-----------------	|
-| Leela Quantum Energy Capsule    	| [Bestellen](#/contact/)                               | € 40,-          	|
-| Shilajit (+85 mineralen)         	| [Bestellen](#/contact/)                               | € 75,- (50 gram)	|
-| Carbon 60 (sterkte antioxidant)   | [Bestellen](#/contact/)                             	| € 40,- (100 ml)  	|                 	
-|                                 	|                                                      	|                 	|
-| **Onafhankelijke distribiteur** 	|                                                      	|                 	|
-| IteraCare                       	| [Bestellen](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
-| Neumi - Nano supplement         	| [Bestellen](https://dokteranders.neumi.com/)         	| [Zie website](https://dokteranders.neumie.com/)     	|
-| Vydafi - Nano supplement        	| [Bestellen](https://vidafyglobal.com/dranders)       	| Altijd begrepen 	|
+| Leela Quantum Energy Capsule    	          | [Bestellen](#/contact/)                               | € 40,-          	|
+| Shilajit (+85 mineralen)                  	| [Bestellen](#/contact/)                               | € 75,- (50 gram)	|
+| Carbon 60 (sterkte antioxidant)             | [Bestellen](#/contact/)                             	| € 40,- (100 ml)  	|                 	
+|                                            	|                                                      	|                 	|
+| **Onafhankelijke distribiteur** 	          |                                                      	|                 	|
+| IteraCare                       	          | [Bestellen](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
+| Neumi - Nano supplement                    	| [Bestellen](https://dokteranders.neumi.com/)         	| [Zie website](https://dokteranders.neumie.com/)     	|
+| Vydafi - Nano supplement        	          | [Bestellen](https://vidafyglobal.com/dranders)       	| Altijd begrepen 	|
 
 ---
 
