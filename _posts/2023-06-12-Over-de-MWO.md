@@ -3,7 +3,7 @@ title: Over de Multiwave Wave Oscillator
 categories:
 - blog
 - multiwave
-feature_image: "![image](https://github.com/dokteranders/dokteranders.com/assets/135414905/3bf48f15-b45e-4265-94c8-8585b42c910c)"
+feature_image: "https://github.com/dokteranders/dokteranders.com/assets/135414905/3bf48f15-b45e-4265-94c8-8585b42c910c"
 ---
 
 De Multi Wave Oscillator is een apparaat dat gebaseerd is op het ontwerp van Nikola Tesla en wordt gebruikt voor het behandelen van verschillende aandoeningen, waaronder elektro-stressaandoeningen, tumoren en kanker, reuma, artritis, ontstekingen, hoofdpijn, migraine, hartstoornissen, chronische vermoeidheid en meer. 
