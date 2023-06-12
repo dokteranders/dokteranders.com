@@ -26,12 +26,14 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 |-------------------------------------------	|------------------------	  |-----------------	|
 | Leela Quantum Energy Capsule    	          | [Bestellen](#/contact/)                               | € 40,-          	|
 | Shilajit (+85 mineralen)                  	| [Bestellen](#/contact/)                               | € 75,- (50 gram)	|
-| Carbon 60 (sterkte antioxidant)             | [Bestellen](#/contact/)                             	| € 40,- (100 ml)  	|                 	
-|                                            	|                                                      	|                 	|
+| Carbon 60 (sterkste antioxidant)            | [Bestellen](#/contact/)                             	| € 40,- (100 ml)  	|                 	
+| MMS                                         | [Bestellen](#/contact/)                             	| € 20,- (100 ml)  	| 
+| Colloidaal Zilver                           | [Bestellen](#/contact/)                             	| € 10,- (100 ml)  	| 
+|                                                      	|                 	|
 | **Onafhankelijke distribiteur** 	          |                                                      	|                 	|
 | IteraCare                       	          | [Bestellen](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
 | Neumi - Nano supplement                    	| [Bestellen](https://dokteranders.neumi.com/)         	| [Zie website](https://dokteranders.neumie.com/)     	|
-| Vydafi - Nano supplement        	          | [Bestellen](https://vidafyglobal.com/dranders)       	| Altijd begrepen 	|
+| Vydafy - Nano supplement        	          | [Bestellen](https://vidafyglobal.com/dranders)       	| [Zie website](https://vidafyglobal.com/dranders) 
 
 ---
 
