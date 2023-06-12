@@ -28,14 +28,13 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Neem gerust co
 | MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
 | Colloidaal Zilver | [Bestellen](#/contact/)  | € 10,- (100 ml)
 
+---
 
-| **Onafhankelijke Distributeur** | **Info** | **Prijs** |
+| **Distributeur** | **Info** | **Prijs** |
 |--------|:-------|:-------|
 | iteraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders)
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/)
 | Vydafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
-
----
 
 Interesse of vragen? Neem dan direct contact op: 
 {% include button.html text="Contact" link="/contact/" %}
