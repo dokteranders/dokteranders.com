@@ -1,9 +1,9 @@
 ---
-title: Over Dokter Anders
+title: Dokter Anders
 feature_text: |
   ## Dokter Anders
-  Therapie en advies op maat
-feature_image: "https://picsum.photos/1300/400?image=989"
+  # Therapie en advies op maat
+feature_image: "https://picsum.photos/1300/400?image=815"
 excerpt: 
 ---
 
