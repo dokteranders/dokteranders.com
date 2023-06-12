@@ -28,7 +28,7 @@ Een overzicht van mijn verschillende behandelingen en tarieveren. Maatwerk is oo
 |                                 	|                                                      	|                 	|
 | **Onafhankelijke distribiteur** 	|                                                      	|                 	|
 | IteraCare                       	| [Bestellen](https://www.thzforyou.nl/producten-thz/) 	| Vanaf € 500,-   	|
-| Neumi - Nano supplement         	| [Bestellen](https://dokteranders.neumi.com/)         	| Zie website     	|
+| Neumi - Nano supplement         	| [Bestellen](https://dokteranders.neumi.com/)         	| [https://dokteranders.neumie.com/](Zie website)     	|
 | Vydafi - Nano supplement        	| [Bestellen](https://vidafyglobal.com/dranders)       	| Altijd begrepen 	|
 
 ---
