@@ -4,8 +4,10 @@ feature_image: "https://picsum.photos/2560/600?image=475"
 aside: true
 ---
 
+Hieronder heb ik voor verschillende apparatuur en technieken die ik gebruik in mijn praktijk voor jou gemak opgesomd en beschikbar gesteld. Een geinformeerd mens telt voor twee!
+
 ### iTeraCare
-- <a href="./uploads/handleiding_nl.pfg">Handlieding Nederlands</a>
+- <a href="handleiding_nl.pfg">Handlieding Nederlands</a>
 - [Handleidng Nederlands](uploads/nederlands.pdf)
 
 ### Multi Wave
