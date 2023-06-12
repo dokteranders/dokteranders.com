@@ -119,10 +119,10 @@ navigation_header:
   url: /
 - title: Behandelingen
   url: /behandelingen/
-- title: Meer info
+- title: Blog
   url: /blog/
-- title: Zoeken
-  url: /search/
+- title: Downloads
+  url: /downloads/
 - title: Contact
   url: /contact/
 
