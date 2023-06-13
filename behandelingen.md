@@ -26,8 +26,6 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 | MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
 | Colloidaal Zilver | [Bestellen](/contact/)  | € 10,- (100 ml)
 
-===
-
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Distributeur** | **Info** | **Prijs** |
@@ -39,14 +37,15 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 --- 
 
 ## Aan te raden behandelingen van een welgedeerde collega
+Voor meer informatie, bezoek haar website op [www.website.nl](#).
 
 | **Product** | **Info** | **Prijs** |
 |--------|:-------|:-------|
 | Massage | [Bestellen](https://www.thzforyou.nl/producten-thz/) | € 40,-
-| Shilajit (+85 mineralen) | [Bestellen](https://dokteranders.neumi.com/) | € 75,- (50 gr)
-| Carbon 60 (sterkste antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
-| MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
-| Colloidaal Zilver | [Bestellen](/contact/)  | € 10,- (100 ml)
+| N.T.B. | [Bestellen](https://dokteranders.neumi.com/) | € 75,- (50 gr)
+| N.T.B. | [Bestellen](/contact/) | € 40,- (100 ml)
+| N.T.B. | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
+| N.T.B. | [Bestellen](/contact/)  | € 10,- (100 ml)
 
 
 
