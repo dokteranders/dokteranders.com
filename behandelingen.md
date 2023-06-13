@@ -36,16 +36,16 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 --- 
 
-## Aan te raden behandelingen van een welgedeerde collega
+## Behandelingen van een welgedeerde collega. Aanrader!
 Voor meer informatie, bezoek haar website op [www.website.nl](#).
 
 | **Product** | **Info** | **Prijs** |
 |--------|:-------|:-------|
-| Massage | [Bestellen](https://www.thzforyou.nl/producten-thz/) | € 40,-
-| N.T.B. | [Bestellen](https://dokteranders.neumi.com/) | € 75,- (50 gr)
-| N.T.B. | [Bestellen](/contact/) | € 40,- (100 ml)
-| N.T.B. | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
-| N.T.B. | [Bestellen](/contact/)  | € 10,- (100 ml)
+| Massage | [Bestellen](https://www.thzforyou.nl/producten-thz/) | N.T.B. 
+| N.T.B. | [Bestellen](https://dokteranders.neumi.com/) | N.T.B. 
+| N.T.B. | [Bestellen](/contact/) | N.T.B. 
+| N.T.B. | [Bestellen](https://vidafyglobal.com/dranders) | N.T.B. 
+| N.T.B. | [Bestellen](/contact/) | N.T.B. 
 
 
 
