@@ -26,6 +26,8 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 | MMS | [Bestellen](https://vidafyglobal.com/dranders) | € 20,-
 | Colloidaal Zilver | [Bestellen](/contact/)  | € 10,- (100 ml)
 
+---
+
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Distributeur** | **Info** | **Prijs** |
@@ -48,4 +50,5 @@ Voor meer informatie, bezoek haar website op [www.website.nl](#).
 | N.T.B. | [Bestellen](/contact/) | N.T.B. 
 
 
+Bedankt voor de interesse! In overleg is veel mogelijk dus schroom niet om contact op te nemen! 
 
