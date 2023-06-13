@@ -7,8 +7,8 @@ aside: true
 Hieronder heb ik voor verschillende apparatuur en technieken die ik gebruik in mijn praktijk voor jou gemak opgesomd en beschikbar gesteld. Een geinformeerd mens telt voor twee!
 
 ### iTeraCare
-- [Handleidng Nederlands](./handleiding-nl.pdf)
-- [Handleidng English](./handleiding-en.pdf)
+- [Handleidng Nederlands](downloads/handleiding_nl.pdf)
+- [Handleidng English](handleiding_nl.pdf)
 
 ### Multi Wave
 - [Handleidng Nederlands](./handleiding-nl.pdf)
