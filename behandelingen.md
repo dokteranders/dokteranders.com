@@ -38,7 +38,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 --- 
 
-## Behandelingen van een welgedeerde collega. Aanrader!
+## Behandelingen van een zeer kundige collega. Aanrader!
 Voor meer informatie, bezoek haar website op [www.website.nl](#).
 
 | **Product** | **Info** | **Prijs** |
@@ -49,6 +49,7 @@ Voor meer informatie, bezoek haar website op [www.website.nl](#).
 | N.T.B. | [Bestellen](https://vidafyglobal.com/dranders) | N.T.B. 
 | N.T.B. | [Bestellen](/contact/) | N.T.B. 
 
+---
 
 Bedankt voor de interesse! In overleg is veel mogelijk dus schroom niet om contact op te nemen! 
 
