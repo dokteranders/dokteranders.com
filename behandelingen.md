@@ -32,9 +32,9 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 | **Distributeur** | **Info** | **Prijs** |
 |--------|:-------|:-------|
-| iTeraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://vidafyglobal.com/dranders)
-| Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumie.com/)
-| Vydafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
+| iTeraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://www.thzforyou.nl/producten-thz/)
+| Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumi.com/)
+| Vidafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
 
 --- 
 
