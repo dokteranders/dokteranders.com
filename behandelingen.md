@@ -8,11 +8,11 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 | **Behandeling** | **Info** | **Prijs** |
 |--------|:-------|:-------|
-| Frequentie & Scalar Therapie | [Lees meer](http://#/) | € 25,- 1 uur 
+| Frequency & Scalar Therapy | [Lees meer](http://#/) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
-| Multi-Wave Oscillator | [Lees meer](http://#/) | € 15,- 10 min
+| Multi Wave Oscillator | [Lees meer](http://#/) | € 15,- 10 min
 | Brown's Gas | [Lees meer](http://#/) | € 25,- 1 uur 
-| Infinity Bloc (Quantum energie) | [Lees meer](http://#/) | Altijd inbegrepen
+| Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
 
 ---
 
@@ -21,15 +21,15 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 | **Eigen Artikelen** | **Info** | **Prijs** |
 |--------|:-------|:-------|
 | Leela Quantum Energy Capsule | [Bestellen](#/contact/) | € 40,-
-| Shilajit (+85 mineralen) | [Bestellen](#/contact/) | € 75,- (50 gr)
+| Shilajit (+85 minerals) | [Bestellen](#/contact/) | € 75,- (50 gr)
 | Pure white gold powder | [Bestellen](#/contact/) | € 75,- (0.2 gr)
-| Carbon 60 (sterkste antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
+| Carbon 60 (most powerful antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
 | MMS | [Bestellen](#/contact/) | € 20,-
-| Colloidaal Zilver | [Bestellen](/contact/) | € 10,- (100 ml)
+| Colloidal Silver | [Bestellen](/contact/) | € 10,- (100 ml)
 
 ---
 
-> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen gevraagd naar een sponsornaam, vul dan **dranders** in.
+> Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen, van de iTeraCare, gevraagd naar een sponsornaam, vul dan **dranders** in.
 
 | **Distributeur** | **Info** | **Prijs** |
 |--------|:-------|:-------|
