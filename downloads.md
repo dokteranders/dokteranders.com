@@ -4,14 +4,73 @@ feature_image: "https://picsum.photos/2560/600?image=41"
 aside: true
 ---
 
-Hieronder heb ik voor verschillende apparatuur en technieken die ik gebruik in mijn praktijk voor jou gemak opgesomd en beschikbar gesteld. Een geinformeerd mens telt voor twee!
+Hieronder vind je uitgebreide informatie over de verschillende behandelingen en de producten die ik aanbied
 
 ### iTeraCare
 - [Handleidng Nederlands](downloads/handleiding_nl.pdf)
-- [Handleidng English](handleiding_nl.pdf)
+- [Handleidng English](handleiding-en.pdf)
 
-### Multi Wave
+### Multi Wave Oscillator
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
+
+### Frequentie en Scalar 
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Violet Ray
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Infinity Bloc
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Browns" Gas
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+### Multi Wave Oscillator
+- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng English](./handleiding-en.pdf)
+
+
+
+
+
+
+
+
+
+
+
 
 
