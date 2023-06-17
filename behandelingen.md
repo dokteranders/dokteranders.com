@@ -10,9 +10,9 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 |--------|:-------|:-------|
 | Frequentie & Scalar Therapie | [Lees meer](http://#/) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
-| Multi-Wave Oscillator | [Bestellen](#/contact/) | € 15,- 10 min
-| Brown's Gas | [Bestellen](#/contact/) | € 25,- 1 uur 
-| Infinity Bloc (Quantum energie) | [Bestellen](#/contact/) | Altijd inbegrepen
+| Multi-Wave Oscillator | [Lees meer](http://#/) | € 15,- 10 min
+| Brown's Gas | [Lees meer](http://#/) | € 25,- 1 uur 
+| Infinity Bloc (Quantum energie) | [Lees meer](http://#/) | Altijd inbegrepen
 
 ---
 
@@ -22,7 +22,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 |--------|:-------|:-------|
 | Leela Quantum Energy Capsule | [Bestellen](#/contact/) | € 40,-
 | Shilajit (+85 mineralen) | [Bestellen](#/contact/) | € 75,- (50 gr)
-| pure white gold powder | [Bestellen](#/contact/) | € 75,- (0.2 gr)
+| Pure white gold powder | [Bestellen](#/contact/) | € 75,- (0.2 gr)
 | Carbon 60 (sterkste antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
 | MMS | [Bestellen](#/contact/) | € 20,-
 | Colloidaal Zilver | [Bestellen](/contact/) | € 10,- (100 ml)
