@@ -58,9 +58,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
-- [Handleidng Nederlands](./handleiding-nl.pdf)
-- [Handleidng English](./handleiding-en.pdf)
+
 
 
 
