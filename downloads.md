@@ -14,7 +14,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Frequentie en Scalar 
+### Frequency and Scalar 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
@@ -26,7 +26,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Browns" Gas
+### Brown"s Gas
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
