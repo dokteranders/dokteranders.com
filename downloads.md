@@ -30,31 +30,31 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Leela Quantum Energy Capsule
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Shilajit (+85 minerals)
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Pure White Gold Powder
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Carbon 60 (most powerful antioxidant)
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### MMS
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Colloidal Silver
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Multi Wave Oscillator
+### Grid Glasses
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
