@@ -11,7 +11,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 | Frequency & Scalar Therapy | [Lees meer](http://#/) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
 | Multi Wave Oscillator met of zonder Violet Ray | [Lees meer](http://#/) | € 15,- 10 min
-| Brown's Gas | [Lees meer](http://#/) | € 25,- 1 uur 
+| Brown's Gas | [Lees meer](http://#/) | € 15,- 1/2  uur 
 | Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
 
 ---
