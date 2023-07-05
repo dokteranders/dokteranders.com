@@ -9,8 +9,9 @@ Vooropgesteld dat gezondheid begint bij gezonde voeding en een gezonde levenssti
 
 ## Meer over Dokter Anders
 
-Mijn naam is Erik Lems uit Groningen en ik heb mijn praktijk hen onder de naam Dokter Anders
+Mijn naam is Erik Lems uit Groningen en ik heb mijn praktijk onder de naam Dokter Anders
 Ten eerste wil ik zeggen dat ik geen dokter ben en dat ik deze naam heb gekozen vanwege, de woordspeling met, de titel doctorandus en natuurlijk het feit dat de behandelingen anders zijn dan je misschien gewend bent.
+Mijn verhaal begint op het moment dat ik 38 was en ik ineens een huidziekte kreeg, dermatitis herpetiformis, een auto immuunziekte, waarvan de oorzaak onbekend is, ik moest de rest van m'n leven elke dag een anyi bioticum slikken en er werd me verteld dat ik er nooit meer vanaf zou komen
 
 
 Zie ook onze blog voor meer aanvullende informatie over de behandeltechnieken die ik toepas.
