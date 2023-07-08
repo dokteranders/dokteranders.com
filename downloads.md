@@ -10,8 +10,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Download](/downloads/Blowing_Guide-IteraCare(BDO).pdf)
 
 ### Multi Wave Oscillator
-- [Handleidng Nederlands](./downloads/handleiding_nl.pdf)
-- [Handleidng English](./downloads/handleiding_en.pdf)
+- [Download](/downloads/handleiding_nl.pdf)
 
 ### Frequency and Scalar 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
