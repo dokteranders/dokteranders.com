@@ -8,7 +8,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 
 ### iTeraCare
 - [Download blow guide iTeraCare](/downloads/Blowing_Guide-IteraCare(BDO).pdf)
-- [Download nederlandse gebruiksaanwijzing](/downloads/gebruikersmanual_nederlands.pdf)
+- [Download nederlandse gebruiksaanwijzing](/downloads/nederlandse_gebruiksaanwijzing.pdf)
 
 ### Multi Wave Oscillator
 - [Download](https://github.com/dokteranders/dokteranders.com/releases/download/docs/the-lakhovsky-multiwave-oscillator-handbook.pdf)
