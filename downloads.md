@@ -7,8 +7,8 @@ aside: true
 Hieronder vind je uitgebreide informatie over de verschillende behandelingen en de producten die ik aanbied
 
 ### iTeraCare
-- [Handleidng Nederlands](./handleiding-en.pdf)
-- [Handleidng English](handleiding-en.pdf)
+- [Handleidng Nederlands]('./downloads/Blowing Guide - IteraCare (BDO).pdf')
+- [Handleidng English]('./Blowing Guide - IteraCare (BDO).pdf')
 
 ### Multi Wave Oscillator
 - [Handleidng Nederlands](./downloads/handleiding-nl.pdf)
