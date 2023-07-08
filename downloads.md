@@ -10,7 +10,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Download](/downloads/Blowing_Guide-IteraCare(BDO).pdf)
 
 ### Multi Wave Oscillator
-- [Download](/downloads/handleiding_nl.pdf)
+- [Download](https://github.com/dokteranders/dokteranders.com/releases/download/docs/the-lakhovsky-multiwave-oscillator-handbook.pdf)
 
 ### Frequency and Scalar 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
