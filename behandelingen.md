@@ -6,7 +6,7 @@ aside: false
 
 Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
 
-| **Behandeling** | **Info** | **Prijs** |
+| **Behandeling** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
 | Frequency & Scalar Therapy | [Lees meer](http://#/) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
@@ -18,7 +18,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 ## Producten
 
-| **Eigen Artikelen** | **Info** | **Prijs** |
+| **Eigen Artikelen** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
 | Leela Quantum Energy Capsule | [Bestellen](#/contact/) | € 40,-
 | Shilajit (+85 minerals) | [Bestellen](#/contact/) | € 75,- (50 gr)
@@ -32,7 +32,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen, van de iTeraCare, gevraagd naar een sponsornaam, vul dan **dranders** in.
 
-| **Distributeur** | **Info** | **Prijs** |
+| **Distributeur** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
 | iTeraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://www.thzforyou.nl/producten-thz/)
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumi.com/)
@@ -43,7 +43,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 ## Behandelingen van een zeer kundige collega. Aanrader!
 Voor meer informatie, bezoek haar website op [www.website.nl](#).
 
-| **Product** | **Info** | **Prijs** |
+| **Product** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
 | Massage | [Bestellen](https://www.thzforyou.nl/producten-thz/) | N.T.B. 
 | N.T.B. | [Bestellen](https://dokteranders.neumi.com/) | N.T.B. 
