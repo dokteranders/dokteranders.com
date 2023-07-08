@@ -11,7 +11,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng English](handleiding-en.pdf)
 
 ### Multi Wave Oscillator
-- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Handleidng Nederlands](./downloads/handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Frequency and Scalar 
