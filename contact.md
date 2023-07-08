@@ -14,7 +14,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
     <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
         <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Verzemdem">
+  <input type="submit" value="Verzenden">
 </form><style>/* reset */
 #fs-frm input,
 #fs-frm select,
