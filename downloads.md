@@ -12,7 +12,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Download wetenschappelijke uitleg iTeraCare](/downloads/Scientific_Explanation_of_iTeraCare.pdf)
 
 ### Multi Wave Oscillator
-- [Download](https://github.com/dokteranders/dokteranders.com/releases/download/docs/the-lakhovsky-multiwave-oscillator-handbook.pdf)
+- [Download](https://github.com/dokteranders/dokteranders.com/releases/download/docs/the_lakhovsky_multiwave-oscillator_handbook.pdf)
 
 ### Frequency and Scalar 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
