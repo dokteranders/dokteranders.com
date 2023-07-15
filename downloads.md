@@ -48,7 +48,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng English](./handleiding-en.pdf)
 
 ### MMS
-- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [Download informatie_en_protocollen_overzicht_CDS & MMS](/downloads/informatie_en_protocollen_overzicht_CDS&MMS.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Colloidal Silver
