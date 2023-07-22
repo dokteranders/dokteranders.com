@@ -49,7 +49,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 
 ### MMS
 - [Download informatie_en_protocollen_overzicht_CDS & MMS](/downloads/informatie_en_protocollen_overzicht_CDS&MMS.pdf)
-- [Download MMS_Health_Recovery_Guide_Book-Jim_Humble](/downloads/MMS_Health_Recovery_Guide_Book-Jim_Humble.pdf)
+- [Download MMS Health Recovery Guide Book - Jim_Humble](/downloads/MMS_Health_Recovery_Guide_Book-Jim_Humble.pdf)
 
 ### Colloidal Silver
 - [Handleidng Nederlands](./handleiding-nl.pdf)
