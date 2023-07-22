@@ -20,9 +20,9 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 | **Eigen Artikelen** | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
-| Leela Quantum Energy Capsule | [Bestellen](#/contact/) |         € 40,-
-| Shilajit (+85 minerals) | [Bestellen](#/contact/) |              € 75,- (50 gr)
-| Pure White Gold Powder | [Bestellen](#/contact/) |               € 75,- (0.2 gr)
+| Leela Quantum Energy Capsule | [Bestellen](/contact/) |         € 40,-
+| Shilajit (+85 minerals) | [Bestellen](/contact/) |              € 75,- (50 gr)
+| Pure White Gold Powder | [Bestellen](/contact/) |               € 75,- (0.2 gr)
 | Carbon 60 (most powerful antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
 | MMS | [Bestellen](#/contact/) |                                  € 20,-
 | Colloidal Silver | [Bestellen](/contact/) |                      € 10,- (100 ml)
