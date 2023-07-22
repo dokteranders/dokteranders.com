@@ -11,8 +11,8 @@ feature_image: "https://picsum.photos/2560/600?image=873"
     <label for="email-address">Email Adres</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Bericht</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-        <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <textarea rows="5" name="message" id="message" placeholder="jo." required=""></textarea>
+        <input type="hidden" name=jouw vraag"_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Verzenden">
 </form><style>/* reset */
