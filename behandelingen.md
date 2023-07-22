@@ -8,7 +8,7 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 | **Behandeling** | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
-| Frequency & Scalar Therapy | [Lees meer](http://#/) | € 25,- 1 uur 
+| Frequency & Scalar Therapy | [Download blow guide iTeraCare](/downloads/Blowing_Guide-IteraCare(BDO).pdf) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
 | Multi Wave Oscillator met of zonder Violet Ray | [Lees meer](http://#/) | € 15,- 10 min
 | Brown's Gas | [Lees meer](http://#/) | € 15,- 1/2  uur 
