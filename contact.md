@@ -12,7 +12,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Bericht</label>
     <textarea rows="5" name="message" id="message" placeholder="jo." required=""></textarea>
-        <input type="hidden" name=jouw vraag"_subject" id="email-subject" value="Contact Form Submission">
+        <input type="hidden" name="jouw vraag"_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Verzenden">
 </form><style>/* reset */
