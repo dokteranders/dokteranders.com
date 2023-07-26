@@ -8,9 +8,9 @@ Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust cont
 
 | **Behandeling** | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
-| Frequency & Scalar Therapy | [Lees: Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietherapie_nou_eigenlijk.pdf) | € 25,- 1 uur 
+| Frequency & Scalar Therapy | [Lees:Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietherapie_nou_eigenlijk.pdf) | € 25,- 1 uur 
 | iTeraCare | [Lees meer](http://#/)  | € 25,- 1 uur 
-| Multi Wave Oscillator met of zonder Violet Ray |  [Lees: Instructions MWO session](/downloads/Instructions_for_preparing_for_the_MWO_session.pdf) | € 15,- 10 min
+| Multi Wave Oscillator met of zonder Violet Ray |  [Lees:Instructions MWO session](/downloads/Instructions_for_preparing_for_the_MWO_session.pdf) | € 15,- 10 min
 | Brown's Gas | [Lees meer](http://#/) | € 15,- 1/2  uur 
 | Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
 
