@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
     <label for="email-address">Email Adres</label>
     <input type="email" name="_replyto" id="email-address" placeholder="jouw@email.nl" required="">
     <label for="message">Bericht</label>
-    <textarea rows="5" name="message" id="message" placeholder="Voer hier uw vraag of verzoek om een afspraak in." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Voer hier je vraag in. Laat gerust ook je telefoonnummer achter, dan zoek ik zo spoedig mogelijk contact." required=""></textarea>
         <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Verzenden">
