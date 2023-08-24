@@ -23,17 +23,17 @@ table th:nth-of-type(3) {
 }
 table tr:first-of-type {
     width: 33%;
-    min-width: 400px;
+    min-width: 200px;
     align-content: right;
 }
 table tr:nth-of-type(2) {
     width: 33%;
-    min-width: 400px;
+    min-width: 200px;
     align-content: left;
 }
 table tr:nth-of-type(3) {
     width: 33%;
-    min-width: 200px;
+    min-width: 100px;
     align-content: left;
 }
 table { 
@@ -41,6 +41,7 @@ table {
 }
 </style>
 </html>
+
 | **Behandeling** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | Frequency & Scalar Therapy | [Lees: Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietheraie_nou_eigenlijk.pdf) | € 25,- per uur 
