@@ -40,7 +40,7 @@ table tr:nth-of-type(3) {
 </style>
 
 <div id="center">
-</html>
+
 
 | **Behandeling** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
@@ -90,6 +90,6 @@ Voor meer informatie, bezoek haar website op [www.website.nl](#).
 ---
 
 Bedankt voor de interesse! In overleg is veel mogelijk dus schroom niet om contact op te nemen! 
-<html>
+
 </div>
-</html>
+
