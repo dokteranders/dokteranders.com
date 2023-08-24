@@ -12,9 +12,11 @@ table th:first-of-type {
 }
 table th:nth-of-type(2) {
     width: 40%;
+    align-content: center;
 }
 table th:nth-of-type(3) {
     width: 20%;
+    align-content: right;
 }
 </style>
 </html>
@@ -31,7 +33,7 @@ table th:nth-of-type(3) {
 
 ## Producten
 
-| **Eigen Artikelen** | **Info** | **Prijs** |
+| **Eigen Artikelen** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | Leela Quantum Energy Capsule | [Bestellen](/contact/) |         € 40,-
 | Shilajit (+85 minerals) | [Bestellen](/contact/) |              € 75,- (50 gr)
@@ -45,7 +47,7 @@ table th:nth-of-type(3) {
 
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen, van de iTeraCare, gevraagd naar een sponsornaam, vul dan **dranders** in.
 
-| **Distributeur** | **Info** | **Vergoedings** |
+| **Distributeur** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | iTeraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://www.thzforyou.nl/producten-thz/)
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumi.com/)
@@ -56,7 +58,7 @@ table th:nth-of-type(3) {
 ## Behandelingen van een zeer kundige collega. Aanrader!
 Voor meer informatie, bezoek haar website op [www.website.nl](#).
 
-| **Product** | **Info** | **Vergoedings** |
+| **Product** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | Massage | [Bestellen](https://www.thzforyou.nl/producten-thz/) | N.T.B. 
 | N.T.B. | [Bestellen](https://dokteranders.neumi.com/) | N.T.B. 
