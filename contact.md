@@ -9,9 +9,9 @@ feature_image: "https://picsum.photos/2560/600?image=873"
     <label for="full-name">Naam</label>
     <input type="text" name="name" id="full-name" placeholder="Jouw naam" required="">
     <label for="email-address">Email Adres</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="jouw@email.nl" required="">
     <label for="message">Bericht</label>
-    <textarea rows="5" name="message" id="message" placeholder="jo." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Voer hier uw vraag of verzoek om een afspraak in." required=""></textarea>
         <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Verzenden">
