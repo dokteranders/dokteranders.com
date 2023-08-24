@@ -9,17 +9,32 @@ Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contac
 <style>
 table th:first-of-type {
     width: 33%;
-    min-width: 200px;
+    min-width: 400px;
 }
 table th:nth-of-type(2) {
     width: 33%;
-    min-width: 200px;
+    min-width: 400px;
     align-content: center;
 }
 table th:nth-of-type(3) {
     width: 33%;
     min-width: 200px;
     align-content: right;
+}
+table tr:first-of-type {
+    width: 33%;
+    min-width: 400px;
+    align-content: right;
+}
+table tr:nth-of-type(2) {
+    width: 33%;
+    min-width: 400px;
+    align-content: left;
+}
+table tr:nth-of-type(3) {
+    width: 33%;
+    min-width: 200px;
+    align-content: left;
 }
 </style>
 </html>
