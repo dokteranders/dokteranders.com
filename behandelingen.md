@@ -24,6 +24,9 @@ table th:nth-of-type(3) {
     align-content: left;
     padding: 15px;
 }
+table, th, td {
+  border: 1px solid;
+}
 </style>
 </html>
 
