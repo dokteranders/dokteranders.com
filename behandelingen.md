@@ -5,6 +5,20 @@ aside: false
 ---
 
 Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 
 |  <div style="width:290px">**Behandeling**</div> |  <div style="width:290px">Info</div> |  <div style="width:290px">Prijs</div> |
 | :---         |     :---:      |          ---: |
