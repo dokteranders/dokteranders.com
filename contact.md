@@ -4,7 +4,7 @@ feature_text:
 feature_image: "https://picsum.photos/2560/600?image=873"
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xvoneavd" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xnqkdgwr" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Naam</label>
     <input type="text" name="name" id="full-name" placeholder="Jouw naam" required="">
