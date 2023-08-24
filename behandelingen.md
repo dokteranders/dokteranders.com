@@ -39,6 +39,7 @@ table tr:nth-of-type(3) {
 }
 .center { margin: auto; width: 50%; padding: 10px; } 
 </style>
+</html>
 
 <div id="center">
 
