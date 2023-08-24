@@ -26,6 +26,7 @@ table th:nth-of-type(3) {
 }
 table, th, td {
   border: 1px solid;
+  padding: 15px;
 }
 </style>
 </html>
