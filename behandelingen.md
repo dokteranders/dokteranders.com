@@ -6,7 +6,7 @@ aside: false
 
 Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
 
-| **Behandeling** | **Info** | **Prijs** |
+|  <div style="width:290px">**Behandeling**</div> |  <div style="width:290px">Info</div> |  <div style="width:290px">Prijs</div> |
 | :---         |     :---:      |          ---: |
 | Frequency & Scalar Therapy | [Lees: Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietherapie_nou_eigenlijk.pdf) | € 25,- 1 uur 
 | iTeraCare | [Lees: iTeraCare beschrijving](/downloads/iTeraCare_beschrijving.pdf) | € 25,- 1 uur 
