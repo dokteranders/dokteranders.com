@@ -36,10 +36,10 @@ table tr:nth-of-type(3) {
     min-width: 100px;
     align-content: left;
 }
-table { 
-    align: center;
-}
+.center { margin: auto; width: 50%; padding: 10px; } 
 </style>
+
+<div id="center">
 </html>
 
 | **Behandeling** | **Info** | **Vergoeding** |
@@ -90,4 +90,6 @@ Voor meer informatie, bezoek haar website op [www.website.nl](#).
 ---
 
 Bedankt voor de interesse! In overleg is veel mogelijk dus schroom niet om contact op te nemen! 
-
+<html>
+</div>
+</html>
