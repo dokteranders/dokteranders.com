@@ -30,6 +30,7 @@ table tr:nth-of-type(2) {
     width: 33%;
     min-width: 200px;
     align-content: left;
+    text-align: left;
 }
 table tr:nth-of-type(3) {
     width: 33%;
