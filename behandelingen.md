@@ -5,6 +5,7 @@ aside: false
 ---
 
 Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
+<html>
 <style>
 table th:first-of-type {
     width: 10%;
@@ -19,6 +20,7 @@ table th:nth-of-type(4) {
     width: 30%;
 }
 </style>
+</html>
 
 | **Behandeling** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
