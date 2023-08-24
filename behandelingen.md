@@ -9,11 +9,11 @@ Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contac
 <style>
 table th:first-of-type {
     width: 33%;
-    min-width: 400px;
+    min-width: 420px;
 }
 table th:nth-of-type(2) {
     width: 33%;
-    min-width: 400px;
+    min-width: 200px;
     align-content: center;
 }
 table th:nth-of-type(3) {
@@ -21,27 +21,8 @@ table th:nth-of-type(3) {
     min-width: 200px;
     align-content: right;
 }
-table tr:first-of-type {
-    width: 33%;
-    min-width: 200px;
-    align-content: right;
-}
-table tr:nth-of-type(2) {
-    width: 33%;
-    min-width: 200px;
-    align-content: left;
-    text-align: left;
-}
-table tr:nth-of-type(3) {
-    width: 33%;
-    min-width: 100px;
-    align-content: left;
-}
-.center { margin: auto; width: 50%; padding: 10px; } 
 </style>
 </html>
-
-<div id="center">
 
 
 | **Behandeling** | **Info** | **Vergoeding** |
