@@ -4,7 +4,7 @@ feature_image: "https://picsum.photos/2560/600?image=104"
 aside: false
 ---
 
-Een overzicht van mijn verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
+Een overzicht van de verschillende behandelingen en tarieven. Neem gerust contact op voor overleg.
 
 | **Behandeling** | **Info** | **Prijs** |
 | :---         |     :---:      |          ---: |
