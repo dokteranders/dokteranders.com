@@ -38,7 +38,7 @@ table tr:nth-of-type(3) {
 }
 </style>
 </html>
-
+<center>
 | **Behandeling** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | Frequency & Scalar Therapy | [Lees: Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietheraie_nou_eigenlijk.pdf) | € 25,- per uur 
@@ -46,11 +46,11 @@ table tr:nth-of-type(3) {
 | Multi Wave Oscillator met of zonder Violet Ray |  [Lees: Instructions MWO session](/downloads/Instructions_for_preparing_for_the_MWO_session.pdf) | € 15,- per 10 min
 | Brown's Gas | [Lees meer](http://#/) | € 15,- per 30 min
 | Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
-
+</center>
 ---
 
 ## Producten
-
+<center>
 | **Eigen Artikelen** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | Leela Quantum Energy Capsule | [Bestellen](/contact/) |         € 40,-
@@ -60,17 +60,17 @@ table tr:nth-of-type(3) {
 | MMS | [Bestellen](#/contact/) |                                  € 20,-
 | Colloidal Silver | [Bestellen](/contact/) |                      € 10,- (100 ml)
 | Grid Glasses | [Bestellen](/contact/) |                          € 15,- 
-
+</center>
 ---
 
 > Onderstaande supplementen en overige artikelen zijn een uitstekende aanvulling op de aangeboden therapieën. Sommige artikelen worden via een betrouwbare partner geleverd. Voor deze partijen ben ik onafhankelijk distribiteur. Wordt er bij het bestellen, van de iTeraCare, gevraagd naar een sponsornaam, vul dan **dranders** in.
-
+<center>
 | **Distributeur** | **Info** | **Vergoeding** |
 | :---         |     :---:      |          ---: |
 | iTeraCare | [Bestellen](https://www.thzforyou.nl/producten-thz/) | [Zie website](https://www.thzforyou.nl/producten-thz/)
 | Neumi - Nano supplement | [Bestellen](https://dokteranders.neumi.com/) | [Zie website](https://dokteranders.neumi.com/)
 | Vidafy - Nano supplement | [Bestellen](https://vidafyglobal.com/dranders) | [Zie website](https://vidafyglobal.com/dranders) 
-
+</center>
 --- 
 
 ## Behandelingen van een zeer kundige collega. Aanrader!
