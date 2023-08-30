@@ -37,7 +37,7 @@ table, th, td {
 | Frequency & Scalar Therapy | [Lees: Wat is frequentietherapie nou eigenlijk](/downloads/Wat_is_frequentietheraie_nou_eigenlijk.pdf) | € 25,- per uur 
 | iTeraCare | [Lees: iTeraCare beschrijving](/downloads/iTeraCare_beschrijving.pdf) | € 25,- per uur 
 | Multi Wave Oscillator met of zonder Violet Ray |  [Lees: Instructions MWO session](/downloads/Instructions_for_preparing_for_the_MWO_session.pdf) | € 15,- per 10 min
-| Brown's Gas | [Lees meer](http://#/) | € 15,- per 30 min
+| Brown's Gas | [Lees: Wat is Brown's Gas therapie](downloads/Brown's_Gas_generator.pdf/) | € 15,- per 30 min
 | Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
 
 ---
