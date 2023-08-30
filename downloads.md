@@ -28,7 +28,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Brown's Gas
-- [Wat is Brown's Gas therapi](./Brown's_Gas_generator.pdf)
+- [Wat is Brown's Gas therapie](./Brown's_Gas_generator.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Leela Quantum Energy Capsule
