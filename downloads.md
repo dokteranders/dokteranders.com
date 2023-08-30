@@ -61,7 +61,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
   
 ### Free Energy
 - [Electrocultuur en Heilige Geometrie](./Electrocultuur_en_Heilige_Geometrie.pdf)
-- [petitie_haal_cannabis_uit_het_strafrecht_voor_een_duurzame_toekomst](./petitie_haal_cannabis_uit_het_strafrecht_voor_een_duurzame_toekomst.pdf)
+- [PETITIE_haal_cannabis_uit_het_strafrecht_voor_een_duurzame_toekomst](./petitie_haal_cannabis_uit_het_strafrecht_voor_een_duurzame_toekomst.pdf)
 - [Video's_en_Site's_Vrije_Energie_en_Hennep](./Video's_en_Site's_Vrije_Energie_en_Hennep.pdf)
 - [Visie_op_de_Nieuwe_Samenleving](./Visie_op_de_Nieuwe_Samenleving.pdf)
 
