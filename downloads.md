@@ -58,7 +58,9 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 ### Grid Glasses
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
-
+  
+### Free Energy
+- [Electrocultuur en Heilige Geometrie](./Electrocultuur_en_Heilige_Geometrie.pdf)
 
 
 
