@@ -38,7 +38,7 @@ table, th, td {
 | iTeraCare | [Lees: iTeraCare beschrijving](/downloads/iTeraCare_beschrijving.pdf) | € 25,- per uur 
 | Multi Wave Oscillator met of zonder Violet Ray |  [Lees: Instructions MWO session](/downloads/Instructions_for_preparing_for_the_MWO_session.pdf) | € 15,- per 10 min
 | Brown's Gas | [Lees: Wat is Brown's Gas therapie](downloads/Brown's_Gas_generator.pdf/) | € 15,- per 30 min
-| Infinity Bloc (Quantum Energy) | [Lees meer](http://#/) | Altijd inbegrepen
+| Infinity Bloc (Quantum Energy) | [Lees: Wat_is_een_Infinity_Bloc](/downloads/Wat_is_een_Infinity_Bloc.pdf) | Altijd inbegrepen
 
 ---
 
