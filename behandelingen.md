@@ -52,7 +52,9 @@ table, th, td {
 | Carbon 60 (most powerful antioxidant) | [Bestellen](/contact/) | € 40,- (100 ml)
 | MMS | [Bestellen](#/contact/) |                                  € 20,-
 | Colloidal Silver | [Bestellen](/contact/) |                      € 10,- (100 ml)
-| Grid Glasses | [Bestellen](/contact/) |                          € 15,- 
+| Grid Glasses | [Bestellen](/contact/) |                          € 15,-
+
+> Voor meer informatie over deze producten ga je naar downloads.
 
 ---
 
