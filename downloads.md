@@ -36,7 +36,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Shilajit (+85 minerals)
-- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [dr.anders Shilajit](./dr_._anders_Shilajit.pdf).pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Pure White Gold Powder
