@@ -44,8 +44,8 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Carbon 60 (most powerful antioxidant)
-- [Handleidng Nederlands](./handleiding-nl.pdf)
-- [Handleidng English](./handleiding-en.pdf)
+- [Carbon 60 van dr.anders](./Carbon_60_van_dr_._anders.pdf)
+  
 
 ### MMS
 - [Download informatie_en_protocollen_overzicht_CDS & MMS](/downloads/informatie_en_protocollen_overzicht_CDS&MMS.pdf)
