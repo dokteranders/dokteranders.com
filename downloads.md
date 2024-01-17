@@ -66,7 +66,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Visie_op_de_Nieuwe_Samenleving](./Visie_op_de_Nieuwe_Samenleving.pdf)
 
 ### Zelf medicijnen maken en protocollen
-- [Zelf een heel sterk antibioticum maken](./Zelf_een_heel_sterk_antibioticum_maken.pdf)
+- [Zelf_een_heel_sterk_antibioticum_maken](./Zelf_een_heel_sterk_antibioticum_maken.pdf)
 
 
 
