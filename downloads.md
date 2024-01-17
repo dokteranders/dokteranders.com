@@ -43,8 +43,8 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Handleidng Nederlands](./handleiding-nl.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
-### Carbon 60 (most powerful antioxidant)
-- [Carbon 60 van dr.anders](./Carbon_60_van_dr.anders.pdf)
+### Carbon 60 (one of the most powerful antioxidants)
+- [Carbon 60 van dr.anders](downloads/Carbon_60_van_dr.anders.pdf)
   
 
 ### MMS
@@ -66,7 +66,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Visie_op_de_Nieuwe_Samenleving](./Visie_op_de_Nieuwe_Samenleving.pdf)
 
 ### Zelf medicijnen maken en protocollen
-- [Zelf_een_heel_sterk_antibioticum_maken](./Zelf_een_heel_sterk_antibioticum_maken.pdf)
+- [Zelf_een_heel_sterk_antibioticum_maken](downloads/Zelf_een_heel_sterk_antibioticum_maken.pdf)
 
 
 
