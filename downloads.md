@@ -16,7 +16,7 @@ Hieronder vind je uitgebreide informatie over de verschillende behandelingen en 
 - [Download The secret of life - George Lakhovski](/downloads/THE_SECRET_OF_LIFE_LAKHOVSKY.pdf)
 
 ### Frequency and Scalar 
-- [Handleidng Nederlands](./handleiding-nl.pdf)
+- [wat is frequentietherapie nou eigenlijk](./downloads/Wat_is_frequentietherapie_nou_eigenlijk.pdf)
 - [Handleidng English](./handleiding-en.pdf)
 
 ### Violet Ray
